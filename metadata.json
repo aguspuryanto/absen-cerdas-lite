@@ -1,0 +1,8 @@
+{
+  "name": "AbsenCerdas - Employee Attendance System",
+  "description": "A comprehensive PWA-ready attendance application featuring QR validation, GPS tracking, and intelligent admin reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
